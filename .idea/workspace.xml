@@ -20,14 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7deefc32-5861-499d-bdb0-dd60c5a2c6aa" name="Default Changelist" comment="Fase 2">
-      <change afterPath="$PROJECT_DIR$/.idea/DSW-andreaRativa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/foto.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoevaluacion/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/autoevaluacion/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoevaluacion/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/autoevaluacion/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor.html" beforeDir="false" afterPath="$PROJECT_DIR$/autor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conceptos/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/conceptos/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conceptos/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/conceptos/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planning.html" beforeDir="false" afterPath="$PROJECT_DIR$/planning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/github.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +62,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,7 +73,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\Documents\GitHub\DSW-andreaRativa\images\team" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marco\Documents\GitHub\DSW-andreaRativa\images" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -81,6 +91,7 @@
       <updated>1599346786532</updated>
       <workItem from="1599346788100" duration="1549000" />
       <workItem from="1601173310743" duration="3910000" />
+      <workItem from="1604630624308" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="Fase 1">
       <created>1599347654885</created>
