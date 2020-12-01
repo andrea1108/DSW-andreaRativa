@@ -19,86 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7deefc32-5861-499d-bdb0-dd60c5a2c6aa" name="Default Changelist" comment="Fase 2">
-      <change afterPath="$PROJECT_DIR$/autor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conceptos/git.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conceptos/github.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/YTPlayer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/light-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/pink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/colors/yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/flexslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/materialdesignicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mobiriseicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/mobirise.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/mobirise.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/mobirise.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/mobirise.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GitHub.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clients/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/git_destacada-1024x426.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mockup1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mockup2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/team-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/team-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/team-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/team-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/user-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.backstretch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.simple-text-rotator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.sticky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/particles.app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scrollspy.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/switcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/typed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/git.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos/github.html" afterDir="false" />
+    <list default="true" id="7deefc32-5861-499d-bdb0-dd60c5a2c6aa" name="Default Changelist" comment="Fase 3">
+      <change afterPath="$PROJECT_DIR$/autoevaluacion/evaluacion-sitio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/0001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/img/0001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1024px-Git-logo.svg.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/img/1024px-Git-logo.svg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fk0849hvg2rt13bpqhjy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/img/fk0849hvg2rt13bpqhjy.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/git-github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/img/git-github.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoevaluacion/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/autoevaluacion/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoevaluacion/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/autoevaluacion/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor.html" beforeDir="false" afterPath="$PROJECT_DIR$/autor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conceptos/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/conceptos/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conceptos/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/conceptos/github.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planning.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/planning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/git.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/git.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursos/github.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +59,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/autoevaluacion" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tecnodes\doc\proyectos\DSW-andreaRativa\autoevaluacion" />
       <recent name="D:\tecnodes\doc\proyectos\DSW-andreaRativa" />
       <recent name="D:\tecnodes\doc\proyectos\DSW-andreaRativa\images" />
       <recent name="D:\tecnodes\doc\proyectos\DSW-andreaRativa\conceptos" />
@@ -158,7 +91,8 @@
       <workItem from="1601173310743" duration="3910000" />
       <workItem from="1604462995812" duration="6878000" />
       <workItem from="1604522912129" duration="7689000" />
-      <workItem from="1604586861276" duration="642000" />
+      <workItem from="1604586861276" duration="1028000" />
+      <workItem from="1606790384785" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="Fase 1">
       <created>1599347654885</created>
@@ -174,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601178600136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fase 3">
+      <created>1604604680509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604604680509</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,17 +136,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fase 1" />
     <MESSAGE value="Fase 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fase 2" />
+    <MESSAGE value="Fase 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fase 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="502" y="235" key="#Web_Browsers" timestamp="1599347416659">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="502" y="235" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1599347416659" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604553008804">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1606793370750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604553008804" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606793370750" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604522969596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -214,13 +156,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604604407349" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601178629076">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601178629076" />
-    <state x="668" y="208" width="583" height="624" key="find.popup" timestamp="1604556285523">
+    <state x="427" y="220" key="Vcs.Push.Dialog.v2" timestamp="1604604780609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="208" width="583" height="624" key="find.popup/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604556285523" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601178629076" />
+    <state x="427" y="220" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1604604780609" />
+    <state x="668" y="208" width="583" height="624" key="find.popup" timestamp="1606790939134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="208" width="583" height="624" key="find.popup/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1606790939134" />
   </component>
 </project>
